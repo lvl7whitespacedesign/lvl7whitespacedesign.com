@@ -20,6 +20,9 @@ theme = 'PaperMod'
 Brand identity → Growth funnels → CRM automation → Sovereign stack → AI assistants.
 One studio. One stack. Zero vendor lock-in.
 """
+  name = "Check My Brand's Lightcode"
+  url = "https://checker.lvl7whitespacedesign.com"
+  
   imageUrl = "/images/lvl7-logo.svg"
   imageWidth = 140
   imageHeight = 140
