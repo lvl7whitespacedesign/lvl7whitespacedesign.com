@@ -9,7 +9,7 @@ theme = 'PaperMod'
 [params.label]
   text = "LVL7 WhiteSpace Design"
   icon = "/logo.png"
-  iconHeight = 96
+  iconHeight = 133
 
 [params.homeInfoParams]
   Title = "LVL7 WhiteSpace Design"
