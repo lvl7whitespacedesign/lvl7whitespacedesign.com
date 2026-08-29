@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(135deg, #9966cc, #caa327, #9acd66);
+  background-attachment: fixed;
+}
+
+.logo img {
+  height: 70px !important;
+  width: auto !important;
+}
