@@ -33,6 +33,10 @@ One studio. One stack. Zero vendor lock-in.
   url = "/services/"
 
 [[params.homeInfoParams.buttons]]
+  name = "Check My Brand's Lightcode"
+  url = "https://checker.lvl7whitespacedesign.com"
+
+[[params.homeInfoParams.buttons]]
   name = "Start a Project"
   url = "/contact/"
 
