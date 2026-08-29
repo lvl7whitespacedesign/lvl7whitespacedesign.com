@@ -1,0 +1,59 @@
+baseURL = 'https://lvl7whitespacedesign.com/'
+languageCode = 'en-us'
+title = 'LVL7 WhiteSpace Design'
+theme = 'PaperMod'
+
+[params]
+  description = 'Brand systems, growth infrastructure, sovereign web operations. We build identities that convert, funnels that scale, infrastructure you own.'
+
+[params.label]
+  text = "LVL7 WhiteSpace Design"
+  icon = "/logo.png"
+  iconHeight = 40
+
+[params.homeInfoParams]
+  Title = "LVL7 WhiteSpace Design"
+  subtitle = "Design. Systems. Sovereignty."
+  Content = """
+**We don't just design brands. We build the infrastructure behind them.**
+
+Brand identity → Growth funnels → CRM automation → Sovereign stack → AI assistants.
+One studio. One stack. Zero vendor lock-in.
+"""
+  imageUrl = "/images/lvl7-logo.svg"
+  imageWidth = 140
+  imageHeight = 140
+
+[[params.homeInfoParams.buttons]]
+  name = "View Work"
+  url = "/work/"
+
+[[params.homeInfoParams.buttons]]
+  name = "Services"
+  url = "/services/"
+
+[[params.homeInfoParams.buttons]]
+  name = "Start a Project"
+  url = "/contact/"
+
+[menu]
+  [[menu.main]]
+    identifier = "work"
+    name = "Work"
+    url = "/work/"
+    weight = 10
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 20
+  [[menu.main]]
+    identifier = "approach"
+    name = "Approach"
+    url = "/approach/"
+    weight = 30
+  [[menu.main]]
+    identifier = "contact"
+    name = "Start a Project"
+    url = "/contact/"
+    weight = 40
