@@ -57,6 +57,11 @@ One studio. One stack. Zero vendor lock-in.
     url = "/approach/"
     weight = 30
   [[menu.main]]
+    identifier = "checker"
+    name = "Check My Brand's Lightcode"
+    url = "https://checker.lvl7whitespacedesign.com"
+    weight = 50
+  [[menu.main]]
     identifier = "contact"
     name = "Start a Project"
     url = "/contact/"
