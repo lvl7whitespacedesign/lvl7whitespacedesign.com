@@ -15,14 +15,11 @@ theme = 'PaperMod'
   Title = "LVL7 WhiteSpace Design"
   subtitle = "Design. Systems. Sovereignty."
   Content = """
-**We don't just design brands. We can build the light code infrastructure behind any brand. LVL7 Whitespace design finds the balance between whitespace and your lightcode. Level up your lightcode to Level 7 today! Grow your brand and let your lightcode shine bright**
+**We don't just design brands. We can build the light code infrastructure behind any brand. LVL7 Whitespace Design creates amelody of balance between whitespace and your lightcode. Level up your lightcode to Level 7 today! Grow your brand and let your lightcode shine bright, like a diamond!**
 
 Brand identity → Growth funnels → CRM automation → Sovereign stack → AI assistants.
 One studio. One stack. Zero vendor lock-in.
-"""
-  name = "Check My Brand's Lightcode"
-  url = "https://checker.lvl7whitespacedesign.com"
-  
+"""  
   imageUrl = "/images/lvl7-logo.svg"
   imageWidth = 140
   imageHeight = 140
