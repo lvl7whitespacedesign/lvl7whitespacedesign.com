@@ -78,7 +78,7 @@ theme = 'PaperMod'
       <div style="display:flex; flex-wrap:wrap; gap:12px;">
         <a href="tel:+17717176996" style="color:#9acd66; font-weight:600; text-decoration:underline;">📞 Direct: (771) 717-6996</a>
         <span style="color:rgba(255,255,255,0.4);">•</span>
-        <a href="mailto:wozart@lvl7hub.com" style="color:#caa327; font-weight:600; text-decoration:underline;">✉️ wozart@lvl7hub.com</a>
+        <a href="mailto:dev@lvl7whitespacedesign.com" style="color:#caa327; font-weight:600; text-decoration:underline;">✉️ dev@lvl7whitespacedesign.com</a>
       </div>
     </div>
   </div>
@@ -89,7 +89,7 @@ theme = 'PaperMod'
   <p style="color:rgba(255,255,255,0.75); font-size:0.9rem; margin-bottom:20px;">
     Leave your details below to receive a personalized blueprint for your brand infrastructure.
   </p>
-  <form action="mailto:wozart@lvl7hub.com" method="POST" enctype="text/plain" style="display:flex; flex-direction:column; gap:12px; max-width:480px; margin:0 auto; text-align:left;">
+  <form action="mailto:dev@lvl7whitespacedesign.com" method="POST" enctype="text/plain" style="display:flex; flex-direction:column; gap:12px; max-width:480px; margin:0 auto; text-align:left;">
     <input type="text" name="name" required placeholder="Your Name" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
     <input type="email" name="email" required placeholder="Work Email" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
     <input type="tel" name="phone" placeholder="Phone Number (Optional)" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
