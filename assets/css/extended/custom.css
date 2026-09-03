@@ -4,6 +4,138 @@ body {
 }
 
 .logo img {
-  height: 70px !important;
+  height: 110px !important;
   width: auto !important;
+}
+
+/* Cosmic dimensional video background */
+html {
+    background: #000000;
+}
+
+body {
+    position: relative;
+    background: transparent !important;
+}
+
+.header,
+.main,
+.footer,
+.top-link {
+    position: relative;
+    z-index: 3;
+}
+
+#cosmic-bg-video {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    object-position: center;
+    pointer-events: none;
+}
+
+#cosmic-bg-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    background: radial-gradient(
+        circle at center,
+        rgba(0, 0, 0, 0.35) 0%,
+        rgba(0, 0, 0, 0.65) 70%,
+        rgba(0, 0, 0, 0.85) 100%
+    );
+}
+
+.lvl7-cosmic-mark {
+    position: fixed;
+    inset: 0;
+    z-index: 2;
+    display: grid;
+    place-items: center;
+    pointer-events: none;
+
+    color: #d8c56c;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(3.5rem, 12vw, 12rem);
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    line-height: 1;
+    white-space: nowrap;
+
+    text-shadow:
+        0 0 8px #ffffff,
+        0 0 20px #9a5bd7,
+        0 0 42px #a6d45e,
+        0 0 78px #d8c56c;
+
+    animation: lvl7-float 7s ease-in-out infinite;
+}
+
+@keyframes lvl7-float {
+    0%, 100% {
+        transform: translateY(0) scale(1);
+        opacity: 0.9;
+    }
+    50% {
+        transform: translateY(-14px) scale(1.035);
+        opacity: 1;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    #cosmic-bg-video {
+        display: none;
+    }
+    .lvl7-cosmic-mark {
+        animation: none;
+    }
+    html {
+        background: #000000;
+    }
+}
+
+@media (max-width: 600px) {
+    .lvl7-cosmic-mark {
+        font-size: clamp(2.5rem, 16vw, 6rem);
+    }
+}
+
+/* Global text color override */
+body,
+p,
+h1, h2, h3, h4, h5, h6,
+li,
+span,
+a,
+.logo,
+.post-content,
+.menu,
+.footer {
+  color: #9966cc !important;
+}
+
+/* Green outline on all text */
+body,
+p,
+h1, h2, h3, h4, h5, h6,
+li,
+span,
+a,
+.logo,
+.post-content,
+.menu,
+.footer {
+  text-shadow:
+    -1px -1px 0 #9acd66,
+     1px -1px 0 #9acd66,
+    -1px  1px 0 #9acd66,
+     1px  1px 0 #9acd66,
+     0px  1px 0 #9acd66,
+     0px -1px 0 #9acd66,
+     1px  0px 0 #9acd66,
+    -1px  0px 0 #9acd66;
 }
