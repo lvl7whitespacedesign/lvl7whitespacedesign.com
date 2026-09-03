@@ -27,7 +27,7 @@ theme = 'PaperMod'
   subtitle = "We build the lightcode infrastructure behind sovereign brands."
   Content = """
 <div style="text-align:center; margin-bottom:1.5rem;">
-  <img src="/images/lvl7spaceshipe.webp" alt="LVL7 WhiteSpace Design Cockpit" style="max-width:420px; width:100%; height:auto; border-radius:16px; box-shadow:0 12px 32px rgba(0,0,0,0.4);" />
+  <img src="/images/lvl7spaceshipe.webp" alt="LVL7 WhiteSpace Design Cockpit" style="width:100%; max-width:900px; height:auto; border-radius:16px; box-shadow:0 12px 32px rgba(0,0,0,0.4); margin:0 auto; display:block;" />
 </div>
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin: 1.25rem 0 2rem 0;">
@@ -54,6 +54,12 @@ theme = 'PaperMod'
     </a>
     <a href="https://checker.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
       ✨ Brand Consistency Checker
+    </a>
+    <a href="https://lightcodeleaks.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      🔍 Light Code Leaks
+    </a>
+    <a href="https://snapshot.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      📸 Brand Snapshot
     </a>
   </div>
 </div>
