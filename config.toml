@@ -3,6 +3,11 @@ languageCode = 'en-us'
 title = 'LVL7 WhiteSpace Design'
 theme = 'PaperMod'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = 'Brand systems, growth infrastructure, sovereign web operations. We build identities that convert, funnels that scale, infrastructure you own.'
   ShowReadingTime = false
@@ -21,12 +26,10 @@ theme = 'PaperMod'
   Title = "Design. Systems. Sovereignty."
   subtitle = "We build the lightcode infrastructure behind sovereign brands."
   Content = """
-<!-- Hero Cockpit Image -->
 <div style="text-align:center; margin-bottom:1.5rem;">
   <img src="/images/lvl7spaceshipe.webp" alt="LVL7 WhiteSpace Design Cockpit" style="max-width:420px; width:100%; height:auto; border-radius:16px; box-shadow:0 12px 32px rgba(0,0,0,0.4);" />
 </div>
 
-<!-- Above-the-fold Quick Actions -->
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin: 1.25rem 0 2rem 0;">
   <a href="tel:+17717176996" style="display:inline-flex; align-items:center; gap:8px; padding:12px 24px; border-radius:9999px; background:#9acd66; color:#0A0A0A; font-weight:700; font-size:0.95rem; text-decoration:none; box-shadow: 0 4px 14px rgba(154,205,102,0.4);">
     📞 Call / Text: (771) 717-6996
@@ -40,7 +43,6 @@ theme = 'PaperMod'
   We don't just design brands. We engineer the <strong>lightcode infrastructure</strong> behind your sovereign web presence. A seamless melody of visual whitespace, automated growth funnels, and enterprise-grade speed.
 </p>
 
-<!-- Free Audit Tools Section -->
 <div style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.1); border-radius:16px; padding:24px 16px; margin:2.5rem 0;">
   <h3 style="color:#caa327; margin-bottom:16px; font-size:1.25rem;">⚡ Free Instant Diagnostic Engines</h3>
   <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
@@ -56,7 +58,6 @@ theme = 'PaperMod'
   </div>
 </div>
 
-<!-- About Me / Architect Section -->
 <div style="background:rgba(153,102,204,0.08); border:1px solid rgba(153,102,204,0.3); border-radius:16px; padding:28px 20px; margin:2.5rem 0; text-align:left;">
   <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:center;">
     <div style="flex:1; min-width:260px;">
@@ -74,7 +75,6 @@ theme = 'PaperMod'
   </div>
 </div>
 
-<!-- Instant Lead Capture Form -->
 <div style="background:rgba(0,0,0,0.4); border:1px solid rgba(202,163,39,0.4); border-radius:16px; padding:28px 20px; margin:2.5rem 0;">
   <h3 style="color:#caa327; margin-bottom:8px; font-size:1.35rem;">Request Your Custom Studio Audit</h3>
   <p style="color:rgba(255,255,255,0.75); font-size:0.9rem; margin-bottom:20px;">
