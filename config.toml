@@ -16,7 +16,10 @@ theme = 'PaperMod'
   ShowBreadCrumbs = false
   ShowCodeCopyButtons = true
   disableSpecial1stPost = true
-
+[params.assets]
+  favicon = "/favicon.ico?v=2"
+  favicon16x16 = "/favicon-16x16.png?v=2"
+  favicon32x32 = "/favicon-32x32.png?v=2"
 [params.label]
   text = "WHITESPACE DESIGN"
   icon = "/logo.png"
