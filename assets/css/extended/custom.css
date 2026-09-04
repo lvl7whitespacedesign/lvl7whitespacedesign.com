@@ -139,3 +139,14 @@ a,
      1px  0px 0 #9acd66,
     -1px  0px 0 #9acd66;
 }
+
+.post-content,
+.post-entry,
+article.post-single,
+.first-entry,
+main {
+    background-color: rgba(153, 102, 204, 0.15);
+    border-radius: 8px;
+    padding: 1.5rem;
+    backdrop-filter: blur(2px);
+}
