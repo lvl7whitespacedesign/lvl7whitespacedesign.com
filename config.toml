@@ -3,6 +3,31 @@ languageCode = 'en-us'
 title = 'LVL7 WhiteSpace Design'
 theme = 'PaperMod'
 
+[menu]
+  [[menu.main]]
+    identifier = "aboutme"
+    name = "About Dev"
+    url = "/aboutme/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "work"
+    name = "View Work"
+    url = "/work/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
