@@ -115,7 +115,7 @@ a,
 .post-content,
 .menu,
 .footer {
-  color: #583759 !important;
+  color: #9966cc !important;
 }
 
 /* Green outline on all text */
