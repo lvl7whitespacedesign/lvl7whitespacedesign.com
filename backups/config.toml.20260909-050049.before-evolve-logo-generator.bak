@@ -1,0 +1,146 @@
+baseURL = 'https://lvl7whitespacedesign.com/'
+languageCode = 'en-us'
+title = 'LVL7 WhiteSpace Design'
+theme = 'PaperMod'
+
+[menu]
+  [[menu.main]]
+    identifier = "aboutme"
+    name = "About Dev"
+    url = "/aboutme/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "work"
+    name = "View Work"
+    url = "/work/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "services"
+    name = "Services"
+    url = "/services/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = 'Brand systems, growth infrastructure, sovereign web operations. We build identities that convert, funnels that scale, infrastructure you own.'
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = true
+[params.assets]
+  favicon = "/favicon.ico?v=2"
+  favicon16x16 = "/favicon-16x16.png?v=2"
+  favicon32x32 = "/favicon-32x32.png?v=2"
+[params.label]
+  text = "WHITESPACE DESIGN"
+  icon = "/logo.png"
+  iconHeight = 48
+
+[params.homeInfoParams]
+  Title = "Design. Systems. Sovereignty."
+  subtitle = "We build the lightcode infrastructure behind sovereign brands."
+  Content = """
+<div style="text-align:center; margin-bottom:1.5rem;">
+  <img src="/images/lvl7spaceshipe.webp" alt="LVL7 WhiteSpace Design Cockpit" style="width:100%; max-width:900px; height:auto; border-radius:16px; box-shadow:0 12px 32px rgba(0,0,0,0.4); margin:0 auto; display:block;" />
+</div>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px; margin: 1.25rem 0 2rem 0;">
+  <a href="tel:+17717176996" style="display:inline-flex; align-items:center; gap:8px; padding:12px 24px; border-radius:9999px; background:#9acd66; color:#0A0A0A; font-weight:700; font-size:0.95rem; text-decoration:none; box-shadow: 0 4px 14px rgba(154,205,102,0.4);">
+    📞 Call / Text: (771) 717-6996
+  </a>
+  <a href="https://calendly.com/dev-lvl7designz/strategy-call" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; padding:12px 24px; border-radius:9999px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.95rem; text-decoration:none; box-shadow: 0 4px 14px rgba(153,102,204,0.4);">
+    📅 Book Strategy Call
+  </a>
+</div>
+
+<p style="font-size:1.05rem; line-height:1.7; max-width:680px; margin:0 auto 1.5rem auto;">
+  We don't just design brands. We engineer the <strong>lightcode infrastructure</strong> behind your sovereign web presence. A seamless melody of visual whitespace, automated growth funnels, and enterprise-grade speed.
+</p>
+
+<div style="max-width:680px; margin:2rem auto;">
+  <h3 style="color:#caa327; margin-bottom:16px; font-size:1.25rem; text-align:center;">What is Lightcode?</h3>
+  <p style="font-size:1.05rem; line-height:1.7; margin:0 auto;">
+    Lightcode is your brand. Everything your brand embodies is light code to travel across the virtual space. It is the frequency beneath the pixels &mdash; the encoded signature of your purpose, translated into color, rhythm, and form so it can be recognized the instant it's seen. Just as a musical key sets the emotional register for everything played within it, your brand's lightcode sets the resonant key your presence plays in across every screen it touches. We don't guess at this frequency &mdash; we listen for it, decode it, and architect a digital presence that transmits it clearly, consistently, and without static. When your lightcode is aligned, your brand doesn't just look right. It feels right, instantly, to the people it was always meant to reach.
+  </p>
+</div>
+
+<div style="background:rgba(255,255,255,0.03); border:1px solid rgba(255,255,255,0.1); border-radius:16px; padding:24px 16px; margin:2.5rem 0;">
+  <h3 style="color:#caa327; margin-bottom:16px; font-size:1.25rem;">⚡ Free Instant Diagnostic Engines</h3>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+    <a href="https://trustscore.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      🛡️ Brand Trust Score
+    </a>
+    <a href="https://gapfinder.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      🎯 Lead Capture Gap Finder
+    </a>
+    <a href="https://checker.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      ✨ Brand Consistency Checker
+    </a>
+    <a href="https://lightcodeleaks.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      🔍 Light Code Leaks
+    </a>
+    <a href="https://snapshot.lvl7whitespacedesign.com" target="_blank" rel="noopener" style="padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
+      📸 Brand Snapshot
+    </a>
+  </div>
+</div>
+
+<div style="background:rgba(153,102,204,0.08); border:1px solid rgba(153,102,204,0.3); border-radius:16px; padding:28px 20px; margin:2.5rem 0; text-align:left;">
+  <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:center;">
+    <div style="flex:1; min-width:260px;">
+      <span style="color:#9acd66; text-transform:uppercase; font-size:0.75rem; letter-spacing:2px; font-weight:700;">Studio Architect</span>
+      <h3 style="color:#ffffff; margin:6px 0 12px 0; font-size:1.5rem;">About LVL7</h3>
+      <p style="color:rgba(255,255,255,0.85); font-size:0.95rem; line-height:1.6; margin-bottom:16px;">
+        Architecting sovereign digital footprints across custom Next.js micro-SaaS, high-converting funnel infrastructure, and unified identity systems. Zero vendor lock-in, uncompromising speed, and full technical ownership.
+      </p>
+      <div style="display:flex; flex-wrap:wrap; gap:12px;">
+        <a href="tel:+17717176996" style="color:#9acd66; font-weight:600; text-decoration:underline;">📞 Direct: (771) 717-6996</a>
+        <span style="color:rgba(255,255,255,0.4);">•</span>
+        <a href="mailto:dev@lvl7whitespacedesign.com" style="color:#caa327; font-weight:600; text-decoration:underline;">✉️ dev@lvl7whitespacedesign.com</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="background:rgba(0,0,0,0.4); border:1px solid rgba(202,163,39,0.4); border-radius:16px; padding:28px 20px; margin:2.5rem 0;">
+  <h3 style="color:#caa327; margin-bottom:8px; font-size:1.35rem;">Request Your Custom Studio Audit</h3>
+  <p style="color:rgba(255,255,255,0.75); font-size:0.9rem; margin-bottom:20px;">
+    Leave your details below to receive a personalized blueprint for your brand infrastructure.
+  </p>
+  <form action="mailto:dev@lvl7whitespacedesign.com" method="POST" enctype="text/plain" style="display:flex; flex-direction:column; gap:12px; max-width:480px; margin:0 auto; text-align:left;">
+    <input type="text" name="name" required placeholder="Your Name" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
+    <input type="email" name="email" required placeholder="Work Email" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
+    <input type="tel" name="phone" placeholder="Phone Number (Optional)" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff;" />
+    <textarea name="need" rows="3" required placeholder="What is your current brand or funnel bottleneck?" style="width:100%; padding:12px 16px; border-radius:8px; background:rgba(255,255,255,0.06); border:1px solid rgba(255,255,255,0.2); color:#fff; resize:none;"></textarea>
+    <button type="submit" style="padding:14px; border-radius:8px; background:#9acd66; color:#0A0A0A; font-weight:700; border:none; cursor:pointer; font-size:1rem;">
+      Submit Project Request
+    </button>
+  </form>
+</div>
+"""
+
+[[params.homeInfoParams.buttons]]
+  name = "View Work"
+  url = "/work/"
+
+[[params.homeInfoParams.buttons]]
+  name = "Services"
+  url = "/services/"
+
+[[params.homeInfoParams.buttons]]
+  name = "Direct Contact"
+  url = "/contact/"
