@@ -99,20 +99,26 @@ theme = 'PaperMod'
   </div>
 </div>
 
+
   <div style="background:rgba(153,102,204,0.06); border:1px solid rgba(153,102,204,0.25); border-radius:16px; padding:28px 20px; margin:2.5rem 0; text-align:center;">
     <p style="color:#9acd66; text-transform:uppercase; font-size:0.75rem; letter-spacing:2px; font-weight:700; margin:0 0 10px 0;">
       Free Lightcode Logo Generator
     </p>
-    <h3 style="color:#ffffff; margin:0 0 12px 0; font-size:1.5rem;">
+
+    <h2 style="color:#ffffff; margin:0 0 12px 0; font-size:1.5rem;">
       Turn your idea into a <span style="color:#caa327;">bold visual direction.</span>
-    </h3>
+    </h2>
+
     <p style="color:rgba(255,255,255,0.85); font-size:0.95rem; line-height:1.6; margin:0 auto 20px auto; max-width:720px;">
-      Give us your business idea and creative direction, then generate your first
-      lightcode logo concept in minutes. Start free and evolve it when you are ready.
+      Give us your business idea and creative direction, and generate your first
+      lightcode logo concept in minutes. Start free, evolve through stronger visual
+      directions, and bring it to LVL7 when you are ready for human studio review.
     </p>
-    <a href="https://evolve.lvl7whitespacedesign.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; padding:12px 20px; border-radius:10px; background:#9966cc; color:#ffffff; font-weight:700; font-size:0.9rem; text-decoration:none; border:1px solid #9acd66;">
-      ✨ Evolve My Logo
+
+    <a href="https://evolve.lvl7whitespacedesign.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; padding:14px 28px; border-radius:12px; background:#9966cc; color:#ffffff; font-weight:700; font-size:1rem; text-decoration:none; box-shadow:0 4px 14px rgba(153,102,204,0.4); border:1px solid rgba(202,163,39,0.5);">
+      Evolve My Logo <span aria-hidden="true">↗</span>
     </a>
+
     <p style="color:rgba(255,255,255,0.55); font-size:0.8rem; margin:14px 0 0 0;">
       LVL1 Basquiat concept · Free to explore
     </p>
