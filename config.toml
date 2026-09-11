@@ -118,6 +118,33 @@ theme = 'PaperMod'
     </p>
   </div>
 
+<div style="position:relative; overflow:hidden; background:linear-gradient(135deg, rgba(153,102,204,0.16), rgba(0,0,0,0.20) 48%, rgba(202,163,39,0.10)); border:1px solid rgba(202,163,39,0.35); border-radius:20px; padding:36px 24px; margin:2.5rem 0; text-align:center; box-shadow:0 16px 40px rgba(0,0,0,0.25);">
+  <p style="color:#9acd66; text-transform:uppercase; font-size:0.75rem; letter-spacing:2px; font-weight:700; margin:0 0 12px 0;">
+    The LVL7 Constellation
+  </p>
+
+  <p style="color:rgba(255,255,255,0.68); font-size:0.98rem; line-height:1.6; max-width:680px; margin:0 auto 14px auto;">
+    You don&apos;t just need a brand that looks right. You need a presence that carries your signal.
+  </p>
+
+  <h3 style="color:#ffffff; margin:0 0 14px 0; font-size:clamp(1.7rem, 4vw, 2.35rem); line-height:1.15;">
+    Your presence has a <span style="color:#caa327;">wavelength.</span>
+  </h3>
+
+  <p style="color:rgba(255,255,255,0.84); font-size:1rem; line-height:1.65; max-width:700px; margin:0 auto 24px auto;">
+    Answer 16 short questions. Discover your permanent Star identity.
+    Claim your place in the LVL7 Constellation.
+  </p>
+
+  <a href="https://constellation.lvl7whitespacedesign.com" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; padding:14px 24px; border-radius:9999px; background:#9966cc; color:#ffffff; font-weight:700; font-size:1rem; text-decoration:none; border:1px solid #caa327; box-shadow:0 8px 24px rgba(153,102,204,0.36);">
+    ✦ Discover Your Star →
+  </a>
+
+  <p style="color:rgba(255,255,255,0.46); font-size:0.8rem; margin:16px 0 0 0;">
+    Free · 16 questions · Your Star identity is yours
+  </p>
+</div>
+
 <div style="background:rgba(153,102,204,0.08); border:1px solid rgba(153,102,204,0.3); border-radius:16px; padding:28px 20px; margin:2.5rem 0; text-align:left;">
   <div style="display:flex; flex-wrap:wrap; gap:20px; align-items:center;">
     <div style="flex:1; min-width:260px;">
