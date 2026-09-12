@@ -2,7 +2,11 @@ baseURL = 'https://lvl7whitespacedesign.com/'
 languageCode = 'en-us'
 title = 'LVL7 WhiteSpace Design'
 theme = 'PaperMod'
-
+[[menu.main]]
+    identifier = "starlogin"
+    name = "★ Star Login"
+    url = "https://constellation.lvl7whitespacedesign.com/login"
+    weight = 50
 [menu]
   [[menu.main]]
     identifier = "aboutme"
@@ -143,6 +147,9 @@ theme = 'PaperMod'
   <p style="color:rgba(255,255,255,0.46); font-size:0.8rem; margin:16px 0 0 0;">
     Free · 16 questions · Your Star identity is yours
   </p>
+   <a href="https://constellation.lvl7whitespacedesign.com/login" target="_blank" rel="noopener noreferrer" style="display:inline-flex; align-items:center; gap:8px; padding:14px 24px; border-radius:9999px; background:rgba(0,0,0,0.6); color:#ffffff; font-weight:700; font-size:0.95rem; text-decoration:none; border:1px solid rgba(255,255,255,0.2); transition:border-color 0.2s;">
+      ★ Already have a Star? Sign In →
+    </a>
 </div>
 
 <div style="background:rgba(153,102,204,0.08); border:1px solid rgba(153,102,204,0.3); border-radius:16px; padding:28px 20px; margin:2.5rem 0; text-align:left;">
