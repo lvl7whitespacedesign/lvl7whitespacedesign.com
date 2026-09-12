@@ -205,6 +205,6 @@ Not sure which level fits? Start with one of the free instant diagnostic engines
 
 - [Take the Brand Trust Score](https://trustscore.lvl7whitespacedesign.com/)
 - [Find Your Growth Gaps](https://gapfinder.lvl7whitespacedesign.com/)
-- [Explore LVL7 Constellation](https://lvl7-constellation.lvl7whitespacedesign.com/)
+- [Explore LVL7 Constellation](https://constellation.lvl7whitespacedesign.com/)
 
 [Talk With LVL7 About Your Next Level](/contact/)
