@@ -25,13 +25,14 @@ theme = 'PaperMod'
     name = "Services"
     url = "/services/"
 
+
+    weight = 30
+
 [[menu.main]]
     identifier = "lightcode-map"
     name = "Lightcode Map"
     url = "https://map.lvl7whitespacedesign.com/"
     weight = 35
-
-    weight = 30
 
   [[menu.main]]
     identifier = "contact"
