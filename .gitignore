@@ -1,3 +1,6 @@
 public/
 .hugo_build.lock
 resources/
+
+# Local editor and deployment backups
+*.before-*
